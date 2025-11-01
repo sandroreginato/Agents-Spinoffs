@@ -1,0 +1,5 @@
+{
+  "name": "YouTube Agent Spinoff",
+  "description": "An application that takes a YouTube video URL, fetches its transcript, and uses AI to generate distinct agent personas based on the content. These personas can be used as specialized chatbots or creative characters.",
+  "requestFramePermissions": []
+}
